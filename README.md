@@ -1,11 +1,11 @@
-# Pentaho Metadata
-Pentaho Metadata allows you to build Pentaho metadata domains and relational data models. A Pentaho Metadata Model maps the physical structure of your database into a logical business model.
+# Tahopen Metadata
+Tahopen Metadata allows you to build Tahopen metadata domains and relational data models. A Tahopen Metadata Model maps the physical structure of your database into a logical business model.
 
 
 How to build
 --------------
 
-Pentaho Metadata uses the maven framework. 
+Tahopen Metadata uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
