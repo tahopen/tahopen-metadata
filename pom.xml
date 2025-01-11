@@ -180,13 +180,4 @@
       </exclusions>
     </dependency>
   </dependencies>
-
-  <repositories>
- 
-  </repositories>
-
-  <pluginRepositories>
- 
-  </pluginRepositories>
-
 </project>
