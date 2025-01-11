@@ -30,10 +30,10 @@
 -->
   <properties>
     <license.licenseName>lgpl_v2_1</license.licenseName>
-    <pdi.version>0.1.0.0-SNAPSHOT</pdi.version>
+    <pdi.version>0.1.0.0</pdi.version>
     <pentaho-connections.version>0.1.0.0</pentaho-connections.version>
-    <pentaho-reporting.version>0.1.0.0-SNAPSHOT</pentaho-reporting.version>
-    <pentaho-cwm.version>0.1.0.0-SNAPSHOT</pentaho-cwm.version>
+    <pentaho-reporting.version>0.1.0.0</pentaho-reporting.version>
+    <pentaho-cwm.version>0.1.0.0</pentaho-cwm.version>
     <netbeans.version>200507110943</netbeans.version>
     <netbeans-custom.version>200507110943-custom</netbeans-custom.version>
     <joda-time.version>2.10.2</joda-time.version>
